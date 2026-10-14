@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "sha256": "eaecb35e73a36adfa9ec97f0c0b70c5c3da915288d5c8c78ccd0ce071a618d3c",
+  "version": 2,
+  "sha256": "f047572032644e471af62e53b0fbd2df0f84a92bc251aeb37f3b4a94a1ae8851",
   "bytes": 833410,
   "ubo": {
     "etiqueta": "1.75.0",
@@ -15,5 +15,5 @@
     "codigo": "https://github.com/brave/adblock-resources/tree/6da9b247c3368baa8b4f24cd02046e18702a6527"
   },
   "receta": "e5d8932b158144249690bf60aaf7a418ab9137aa956d4cc6cd3064a787bc4b9a",
-  "fecha": "2026-10-13T17:54:37Z"
+  "fecha": "2026-10-14T22:44:55Z"
 }
