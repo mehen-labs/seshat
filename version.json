@@ -1,12 +1,12 @@
 {
-  "version": 3,
-  "sha256": "1434be4df4b86e7484685fb0701b82311becb1c07cf3fb6d24e5d9bec127b94f",
+  "version": 4,
+  "sha256": "da04f871f4a5e66740184a263f73555c6604e3cdcc20957b30b72ac8ae787d49",
   "bytes": 833718,
   "ubo": {
-    "etiqueta": "1.75.2",
-    "commit": "7cdf1375509050e6474509825c95bca79df06081",
+    "etiqueta": "1.75.4",
+    "commit": "f417911934edb2d3e2700110803ed7fde6f51022",
     "licencia": "GPL-3.0",
-    "codigo": "https://github.com/gorhill/uBlock/tree/7cdf1375509050e6474509825c95bca79df06081"
+    "codigo": "https://github.com/gorhill/uBlock/tree/f417911934edb2d3e2700110803ed7fde6f51022"
   },
   "brave": {
     "commit": "6da9b247c3368baa8b4f24cd02046e18702a6527",
@@ -15,5 +15,5 @@
     "codigo": "https://github.com/brave/adblock-resources/tree/6da9b247c3368baa8b4f24cd02046e18702a6527"
   },
   "receta": "e5d8932b158144249690bf60aaf7a418ab9137aa956d4cc6cd3064a787bc4b9a",
-  "fecha": "2026-11-05T18:06:23Z"
+  "fecha": "2026-11-06T17:33:35Z"
 }
