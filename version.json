@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "sha256": "da04f871f4a5e66740184a263f73555c6604e3cdcc20957b30b72ac8ae787d49",
-  "bytes": 833718,
+  "version": 5,
+  "sha256": "d407e0b70d530bc28c905092916b3385c85fa80da9386cd285210d9d8c2e9b88",
+  "bytes": 833950,
   "ubo": {
     "etiqueta": "1.75.4",
     "commit": "f417911934edb2d3e2700110803ed7fde6f51022",
@@ -14,6 +14,6 @@
     "licencia": "MPL-2.0",
     "codigo": "https://github.com/brave/adblock-resources/tree/6da9b247c3368baa8b4f24cd02046e18702a6527"
   },
-  "receta": "e5d8932b158144249690bf60aaf7a418ab9137aa956d4cc6cd3064a787bc4b9a",
-  "fecha": "2026-11-06T17:33:35Z"
+  "receta": "c9708d7abea9c45ded546e3da0c9322e01358ede3a8118d5419579fb456aadb5",
+  "fecha": "2026-11-07T20:51:57Z"
 }
