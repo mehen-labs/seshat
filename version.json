@@ -1,19 +1,19 @@
 {
-  "version": 8,
-  "sha256": "542067afab974cf5d60c8ec6f3ef3b5fca9c5d2074abf0008325bbb8e561c1e4",
-  "bytes": 1093885,
+  "version": 9,
+  "sha256": "44653a7373efc8e583a70641b984082420fb689eb7d09e69856cfdc745276b41",
+  "bytes": 1129950,
   "ubo": {
-    "etiqueta": "1.76.2",
-    "commit": "e25a1b3b9e0a9c8db345453f1b8a0a9d109668b7",
+    "etiqueta": "1.76.4",
+    "commit": "3cca944b4a4c5f3473d6cb7153e6fb99b5f7d1db",
     "licencia": "GPL-3.0",
-    "codigo": "https://github.com/gorhill/uBlock/tree/e25a1b3b9e0a9c8db345453f1b8a0a9d109668b7"
+    "codigo": "https://github.com/gorhill/uBlock/tree/3cca944b4a4c5f3473d6cb7153e6fb99b5f7d1db"
   },
   "brave": {
-    "commit": "fb431e85ace0a53adb0c4a497c34160404df347c",
-    "sha256": "0f96fac13aad237ff704c5c77c3c6911720f7d6de25ec7ba712e6367af950388",
+    "commit": "39de1e05d3fa58893afbe171b03d0c78e443edab",
+    "sha256": "9e3aec41b6930add3fc217e772335200122bcd0e8476f48c3c9cab449956104a",
     "licencia": "MPL-2.0",
-    "codigo": "https://github.com/brave/adblock-resources/tree/fb431e85ace0a53adb0c4a497c34160404df347c"
+    "codigo": "https://github.com/brave/adblock-resources/tree/39de1e05d3fa58893afbe171b03d0c78e443edab"
   },
   "receta": "c9708d7abea9c45ded546e3da0c9322e01358ede3a8118d5419579fb456aadb5",
-  "fecha": "2026-11-17T19:14:45Z"
+  "fecha": "2026-11-18T18:54:33Z"
 }
